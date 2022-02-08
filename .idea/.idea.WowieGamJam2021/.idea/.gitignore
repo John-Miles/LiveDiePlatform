@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.WowieGamJam2021.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Documents\Personal\Unity Projects\WowieGamJam2021\.idea\.idea.WowieGamJam2021\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
